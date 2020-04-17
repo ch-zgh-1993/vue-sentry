@@ -1,3 +1,11 @@
+/*
+* @Author: Zhang Guohua
+* @Date:   2019-09-10 17:03:00
+* @Last Modified by:   zgh
+* @Last Modified time: 2020-01-14 15:33:53
+* @Description: create by zgh
+* @GitHub: Savour Humor
+*/
 # vue-sentry
 
 > test vue sentry
