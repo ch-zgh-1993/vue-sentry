@@ -22,7 +22,7 @@
     "lodash": "^4.17.11",
     "cos-js-sdk-v5": "^0.5.13",
     "moment": "^2.19.3",
-    "qs": "^6.6.0",
+    "qs": "^6.9.7",
     "ready-promise": "^0.0.2",
     "sd-account": "^4.1.2-beta",
     "sd-ad": "^0.1.0",
